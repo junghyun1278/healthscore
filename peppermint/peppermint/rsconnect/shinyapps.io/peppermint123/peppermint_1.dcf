@@ -1,0 +1,12 @@
+name: peppermint_1
+title: peppermint_1
+username:
+account: peppermint123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2829265
+bundleId: 3640017
+url: https://peppermint123.shinyapps.io/peppermint_1/
+when: 1600351909.48691
+asMultiple: FALSE
+asStatic: FALSE
